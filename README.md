@@ -1,6 +1,6 @@
 # Load-Balancing-and-Auto-Scaling-Practical
-Task 7: AWS Load Balancing and Auto Scaling setup for a web application.
-# Task 7: Load Balancing and Auto Scaling for a Web Application
+
+# Task 7: AWS Load Balancing and Auto Scaling for a Web Application
 
 ## Objective
 In this task, I configured Load Balancing and Auto Scaling for a simple web application hosted on AWS EC2 instances to understand how scalability and fault tolerance work in cloud computing.
@@ -43,13 +43,24 @@ I also checked the **Auto Scaling Activity History** to confirm that new instanc
 ---
 
 ## Screenshots
-Included:  
-1. EC2 Instances (Running)  
-2. Load Balancer (Active)  
-3. Target Group (Healthy)  
-4. Auto Scaling Group configuration  
-5. Auto Scaling Activity History  
-6. Web page output via Load Balancer DNS name
+
+**1. EC2 Instances (Running)**  
+![EC2 Instances](./EC2-Instances-(Running).png)
+
+**2. Load Balancer (Active)**  
+![Load Balancer](./Load-Balancer-(Active).png)
+
+**3. Target Group (Healthy)**  
+![Target Group](./Target-Group-(Healthy).png)
+
+**4. Auto Scaling Group Configuration**  
+![Auto Scaling Group](./Auto-Scaling-Group-configuration.png)
+
+**5. Auto Scaling Activity History**  
+![Auto Scaling Activity History](./Auto-Scaling-Activity-History.png)
+
+**6. Web Page Output via Load Balancer DNS Name**  
+![Web Page Output](./Web-page-output-via-Load-Balancer-DNS-name.png)
 
 ---
 
